@@ -10,5 +10,5 @@
 - API-driven content display
 - Responsive layout with animation
 
-## 🔗 Live Demo
-See sandbox below.
+## 🔗 Live Demo  
+[Click here to view the live demo](https://skip-size-selector.vercel.app)
