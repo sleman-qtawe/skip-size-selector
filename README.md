@@ -1,14 +1,14 @@
 # Skip Size Selection Page - Redesign
 
-## 💡 Approach
+##  Approach
 - Used React + Chakra UI + Framer Motion.
 - Pulled data dynamically from the provided API.
 - Focused on clean UX, mobile responsiveness, and animation for better user engagement.
 
-## 🚀 Features
+##  Features
 - Interactive container size cards
 - API-driven content display
 - Responsive layout with animation
 
-## 🔗 Live Demo  
+##  Live Demo  
 [Click here to view the live demo](https://skip-size-selector.vercel.app)
